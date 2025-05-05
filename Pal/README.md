@@ -2,7 +2,7 @@
 
 Pal AI is an emotionally intelligent voice concierge that learns from user behavior, recommends food, handles bookings, and provides companionship through voice calls. It combines task-oriented AI with natural conversation and memory to create a truly human experience.
 
-demo-UI.png
+![Pal AI Demo UI](./demo-UI.png)
 
 ## Features
 
